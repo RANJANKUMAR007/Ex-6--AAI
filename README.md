@@ -1,7 +1,7 @@
 <H3>NAME : RANJAN KUMAR G M</H3>
 <H3>REGISTER NO. : 212223240138 </H3>
 <H3>EX. NO.6</H3>
-<H3>DATE : </H3>
+<H3>DATE :04/11/2025 </H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
 
 <H3>Aim:  </H3> 
